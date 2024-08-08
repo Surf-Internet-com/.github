@@ -15,7 +15,6 @@
   - [Pull Requests](https://github.com/Surf-Internet-com/SRWP/pulls)
   - [Issues](https://github.com/Surf-Internet-com/SRWP/issues)
   - [Wiki](https://github.com/Surf-Internet-com/SRWP/wiki) - All Documentation
-  - [calm-coast-07b967b0f](https://calm-coast-07b967b0f.5.azurestaticapps.net/login) - Azure Dev URL
 
 - [Address-DB](https://github.com/Surf-Internet-com/Address-DB)
 
