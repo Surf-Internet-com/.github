@@ -17,5 +17,8 @@
   - [Wiki](https://github.com/Surf-Internet-com/SRWP/wiki) - All Documentation
 
 - [Address-DB](https://github.com/Surf-Internet-com/Address-DB)
+  - [Pull Requests](https://github.com/Surf-Internet-com/Address-DB/pulls)
+  - [Issues](https://github.com/Surf-Internet-com/Address-DB/issues)
+  - [Wiki](https://github.com/Surf-Internet-com/Address-DB/wiki) - All Documentation
 
 #### Arcived Projects - not in use marked by `z_archived-`
