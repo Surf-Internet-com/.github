@@ -16,6 +16,8 @@
   - [Issues](https://github.com/Surf-Internet-com/SRWP/issues)
   - [Wiki](https://github.com/Surf-Internet-com/SRWP/wiki) - All Documentation
 
+- [CEP](https://github.com/Surf-Internet-com/CEP)
+
 - [Address-DB](https://github.com/Surf-Internet-com/Address-DB)
   - [Pull Requests](https://github.com/Surf-Internet-com/Address-DB/pulls)
   - [Issues](https://github.com/Surf-Internet-com/Address-DB/issues)
