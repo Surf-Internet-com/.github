@@ -1,0 +1,43 @@
+name: "🐛 Bug Report"
+description: "Report a reproducible problem"
+title: "[BUG] <concise summary>"
+labels: [bug, needs triage]
+body:
+  - type: markdown
+    attributes:
+      value: "Thanks for helping us improve! Fill out every required field."
+  - type: input
+    id: env
+    attributes:
+      label: Environment
+      description: "Build SHA/URL, browser, device, OS, etc."
+      placeholder: "v1.2.3 – Chrome 126 – macOS 14.5"
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to Reproduce
+      placeholder: |
+        1. Go to …
+        2. Click …
+        3. Expected … but saw …
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected Result
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual Result
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Screenshots / Console logs
+      description: "Drag‑n‑drop images or paste stack traces."

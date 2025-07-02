@@ -1,0 +1,43 @@
+name: "✨ Feature Request"
+description: "Propose a new capability or enhancement"
+title: "[FEAT] <concise summary>"
+labels: [feature, product]
+body:
+  - type: markdown
+    attributes:
+      value: "Give us context and acceptance criteria so we can build it right the first time."
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem / Goal
+      description: "What user pain are we solving?"
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: Scope (in / out)
+      placeholder: |
+        **In‑scope**
+        - …
+        **Out‑of‑scope**
+        - …
+  - type: textarea
+    id: stories
+    attributes:
+      label: User Stories
+      placeholder: |
+        1. As a <role> I want <capability> so that <benefit>.
+  - type: textarea
+    id: ac
+    attributes:
+      label: Acceptance Criteria (GWT table)
+      placeholder: |
+        | ID | GIVEN | WHEN | THEN |
+        | --- | --- | --- | --- |
+    validations:
+      required: true
+  - type: input
+    id: figma
+    attributes:
+      label: Design / Figma link (if any)
