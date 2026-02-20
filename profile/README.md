@@ -17,7 +17,7 @@
 ### [CEP](https://github.com/Surf-Internet-com/CEP)
   - ⬇️ [PULL REQUESTS](https://github.com/Surf-Internet-com/CEP/pulls)
   - 💡 [ISSUES](https://github.com/Surf-Internet-com/CEP/issues)
-  - 📄 [DOCUMENTATION](https://github.com/Surf-Internet-com/CEP/wiki)
+  - 📄 [DOCUMENTATION](https://surf-internet-com.github.io/CEP-Docs/)
 
 ### [Address-DB](https://github.com/Surf-Internet-com/Address-DB)
   - [PULL REQUESTS](https://github.com/Surf-Internet-com/Address-DB/pulls)
