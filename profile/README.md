@@ -1,6 +1,6 @@
 ## QUICK LINKS
 
-- [Monday Board](https://tech-guys-who-get-marketing.monday.com/boards/3607349991/) for Surf PWA
+- [Monday Board](https://tech-guys-who-get-marketing.monday.com/boards/18393095016/) for Surf PWA
 
 ### [CISS](https://github.com/Surf-Internet-com/CISS)
   - ⬇️ [PULL REQUESTS](https://github.com/Surf-Internet-com/CISS/pulls)
@@ -14,14 +14,14 @@
   - 📄 [DOCUMENTATION](https://github.com/Surf-Internet-com/SRWP/wiki)
   - 🔗 [MAIN SITE](https://sales.surfinternet.com/)
 
-### [CEP](https://github.com/Surf-Internet-com/CEP)
-  - ⬇️ [PULL REQUESTS](https://github.com/Surf-Internet-com/CEP/pulls)
-  - 💡 [ISSUES](https://github.com/Surf-Internet-com/CEP/issues)
-  - 📄 [DOCUMENTATION](https://surf-internet-com.github.io/CEP-Docs/)
-
 ### [Address-DB](https://github.com/Surf-Internet-com/Address-DB)
   - [PULL REQUESTS](https://github.com/Surf-Internet-com/Address-DB/pulls)
   - 💡 [ISSUES](https://github.com/Surf-Internet-com/Address-DB/issues)
   - 📄 [DOCUMENTATION](https://github.com/Surf-Internet-com/Address-DB/wiki)
 
-#### Arcived Projects - not in use marked by `z_archived-`
+### Arcived Projects
+
+- [CEP - APP](https://github.com/Surf-Internet-com/CEP)
+- [CEP - DOCUMENTATION](https://surf-internet-com/CEP-Docs)
+
+
