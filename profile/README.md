@@ -14,7 +14,7 @@
 
 ### Surf Developer Documentation
 
-    - 📄 [DOCUMENTATION](https://orange-mushroom-0d7167410.7.azurestaticapps.net/)
+  - 📄 [DOCUMENTATION](https://orange-mushroom-0d7167410.7.azurestaticapps.net)
 
 ### Arcived Projects
 
